@@ -1,0 +1,20 @@
+Configs: {
+	ExplosiveIdeaConfig: {
+		DisplayName: Explosive Idea Config
+
+		ExplosionRadius: {
+			Label: Explosion Radius (in Blocks)
+			Tooltip: The radius of the explosion in blocks.
+		}
+
+		InstantKill: {
+			Label: Instant Kill
+			Tooltip: Whether the explosion should instantly kill NPCs and Players including you.
+		}
+
+		ExplosionDamage: {
+			Label: Explosion damage
+			Tooltip: How much damage the explosion should deal. This is only used if instant kill is disabled.
+		}
+	}
+}

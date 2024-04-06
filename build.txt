@@ -1,0 +1,4 @@
+displayName = ExplosiveIdea
+author = Henry1887
+version = 0.6
+Side = Both

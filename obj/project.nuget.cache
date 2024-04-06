@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzEs/PGFuBmvjbDBV8c8GobRLloInimcaioCSZQZOXPDZk5mqVscIn6kAi+L65q1MzYr8f8uMwvyd/k0qHo0qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shadow\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExplosiveIdea\\ExplosiveIdea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shadow\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Shadow\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
